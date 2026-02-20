@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-02-20T01:32:56.993Z",
+  "total_opos": 57,
+  "sources": {
+    "opodata": {
+      "count": 57,
+      "pct": "100%"
+    },
+    "propublica": {
+      "count": 47,
+      "pct": "82%"
+    },
+    "hrsa": {
+      "count": 57,
+      "pct": "100%"
+    },
+    "srtr": {
+      "count": 55,
+      "pct": "96%"
+    },
+    "cms-qcor": {
+      "count": 56,
+      "pct": "98%"
+    }
+  }
+}

@@ -1,0 +1,4224 @@
+{
+  "metadata": {
+    "source": "opodata.org",
+    "fetched_at": "2026-02-20T01:32:53.124Z",
+    "total_opos": 57,
+    "data_year": 2023
+  },
+  "opos": [
+    {
+      "opo_id": "42830c48-3169-4446-8478-652c61eb714a",
+      "name": "Legacy of Hope",
+      "dsa_code": "ALOB",
+      "location": {
+        "state": "AL",
+        "city": null,
+        "region": "AL"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 184,
+        "recovery_rate": {
+          "nhw": 10.6,
+          "nhb": 9.7,
+          "hispanic": 11.1,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 21,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Christopher Meeks (No compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1203,
+          "nhb": 555,
+          "hispanic": 27,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 38,
+          "nhb": 34,
+          "hispanic": 36,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "AL"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "0ee40875-6626-4a65-9e0a-f9967389bcf3",
+      "name": "Arkansas Regional Organ Recovery Agency",
+      "dsa_code": "AROR",
+      "location": {
+        "state": "AR",
+        "city": null,
+        "region": "AR: Most of AR"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 61,
+        "recovery_rate": {
+          "nhw": 6.4,
+          "nhb": 6.6,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": 71,
+        "rank": 48,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 442172
+      },
+      "leadership": {
+        "ceo": "Mark Tudor",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 778,
+          "nhb": 166,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 55,
+          "nhb": 47,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "AR"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "2426d422-70db-4aef-8e8e-264f13021b71",
+      "name": "Donor Network of Arizona",
+      "dsa_code": "AZOB",
+      "location": {
+        "state": "AZ",
+        "city": null,
+        "region": "AZ"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 270,
+        "recovery_rate": {
+          "nhw": 14.2,
+          "nhb": 15.2,
+          "hispanic": 15.2,
+          "asian": 2.7
+        },
+        "shadow_deaths": 52,
+        "rank": 17,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 613886
+      },
+      "leadership": {
+        "ceo": "Timothy Brown",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1242,
+          "nhb": 112,
+          "hispanic": 499,
+          "asian": 37
+        },
+        "demographic_rank": {
+          "nhw": 11,
+          "nhb": 5,
+          "hispanic": 23,
+          "asian": 29
+        }
+      },
+      "states_served": [
+        "AZ"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "eb5e90b9-9151-4f01-a7a2-657752c5724e",
+      "name": "Donor Network West",
+      "dsa_code": "CADN",
+      "location": {
+        "state": "CA",
+        "city": null,
+        "region": "CA: Northern; NV: Northern"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 363,
+        "recovery_rate": {
+          "nhw": 12.1,
+          "nhb": 10.6,
+          "hispanic": 16.3,
+          "asian": 8.5
+        },
+        "shadow_deaths": 49,
+        "rank": 32,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 925441
+      },
+      "leadership": {
+        "ceo": "Janice Whaley",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1516,
+          "nhb": 283,
+          "hispanic": 681,
+          "asian": 457
+        },
+        "demographic_rank": {
+          "nhw": 22,
+          "nhb": 28,
+          "hispanic": 18,
+          "asian": 15
+        }
+      },
+      "states_served": [
+        "CA",
+        "NV"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "ee925a12-b85c-4c91-b6e8-9e8e03bd3f22",
+      "name": "Sierra Donor Services",
+      "dsa_code": "CAGS",
+      "location": {
+        "state": "CA",
+        "city": null,
+        "region": "CA: North Central"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 70,
+        "recovery_rate": {
+          "nhw": 10.1,
+          "nhb": 6.2,
+          "hispanic": 9.9,
+          "asian": 4.8
+        },
+        "shadow_deaths": null,
+        "rank": 16,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 389042
+      },
+      "leadership": {
+        "ceo": "Sean Van Slyck",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 465,
+          "nhb": 97,
+          "hispanic": 132,
+          "asian": 84
+        },
+        "demographic_rank": {
+          "nhw": 41,
+          "nhb": 49,
+          "hispanic": 41,
+          "asian": 23
+        }
+      },
+      "states_served": [
+        "CA"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "bd83ef25-6993-40f9-9140-4bdb3945abd6",
+      "name": "OneLegacy",
+      "dsa_code": "CAOP",
+      "location": {
+        "state": "CA",
+        "city": null,
+        "region": "CA: Los Angeles"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 483,
+        "recovery_rate": {
+          "nhw": 8.5,
+          "nhb": 5.7,
+          "hispanic": 12.6,
+          "asian": 5.6
+        },
+        "shadow_deaths": 2,
+        "rank": 33,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 1259032
+      },
+      "leadership": {
+        "ceo": "Chowdary P Garimella",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 2048,
+          "nhb": 665,
+          "hispanic": 1881,
+          "asian": 609
+        },
+        "demographic_rank": {
+          "nhw": 52,
+          "nhb": 51,
+          "hispanic": 30,
+          "asian": 21
+        }
+      },
+      "states_served": [
+        "CA"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "fd8d860f-59d4-4e8e-b7bc-24fb81777c6f",
+      "name": "LifeSharing",
+      "dsa_code": "CASD",
+      "location": {
+        "state": "CA",
+        "city": null,
+        "region": "CA: Imperial, San Diego"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 122,
+        "recovery_rate": {
+          "nhw": 15.6,
+          "nhb": 8.3,
+          "hispanic": 14,
+          "asian": 12.5
+        },
+        "shadow_deaths": null,
+        "rank": 11,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Jeff Trageser (no compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 430,
+          "nhb": 60,
+          "hispanic": 272,
+          "asian": 96
+        },
+        "demographic_rank": {
+          "nhw": 4,
+          "nhb": 39,
+          "hispanic": 29,
+          "asian": 7
+        }
+      },
+      "states_served": [
+        "CA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "3ec7d606-a7bc-4cd5-98ff-b7fbf0daef01",
+      "name": "Donor Alliance",
+      "dsa_code": "CORS",
+      "location": {
+        "state": "CO",
+        "city": null,
+        "region": "CO; WY: Eastern"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 180,
+        "recovery_rate": {
+          "nhw": 15.3,
+          "nhb": 12.7,
+          "hispanic": 12.5,
+          "asian": 8.6
+        },
+        "shadow_deaths": 83,
+        "rank": 2,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 749161
+      },
+      "leadership": {
+        "ceo": "Jennifer Prinz",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 921,
+          "nhb": 71,
+          "hispanic": 216,
+          "asian": 35
+        },
+        "demographic_rank": {
+          "nhw": 6,
+          "nhb": 13,
+          "hispanic": 31,
+          "asian": 14
+        }
+      },
+      "states_served": [
+        "CO",
+        "WY"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "9a28c2a2-8531-4965-b494-797345b91e26",
+      "name": "Washington Regional Transplant Community",
+      "dsa_code": "DCTC",
+      "location": {
+        "state": "DC",
+        "city": null,
+        "region": "DC; MD: DC Suburbs; VA: Northern VA"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 133,
+        "recovery_rate": {
+          "nhw": 13.5,
+          "nhb": 7.5,
+          "hispanic": 18.8,
+          "asian": 14.3
+        },
+        "shadow_deaths": 243,
+        "rank": 45,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 608009
+      },
+      "leadership": {
+        "ceo": "Charles Alexander",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 436,
+          "nhb": 560,
+          "hispanic": 101,
+          "asian": 91
+        },
+        "demographic_rank": {
+          "nhw": 13,
+          "nhb": 44,
+          "hispanic": 13,
+          "asian": 6
+        }
+      },
+      "states_served": [
+        "DC",
+        "MD",
+        "VA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "3cb03583-2c78-4762-924f-c7ba67927f83",
+      "name": "OurLegacy",
+      "dsa_code": "FLFH",
+      "location": {
+        "state": "FL",
+        "city": null,
+        "region": "FL: Eastern"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 186,
+        "recovery_rate": {
+          "nhw": 12.4,
+          "nhb": 12.1,
+          "hispanic": 21.2,
+          "asian": 10.8
+        },
+        "shadow_deaths": null,
+        "rank": 22,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Ginny McBride (no compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 925,
+          "nhb": 198,
+          "hispanic": 203,
+          "asian": 37
+        },
+        "demographic_rank": {
+          "nhw": 18,
+          "nhb": 18,
+          "hispanic": 7,
+          "asian": 9
+        }
+      },
+      "states_served": [
+        "FL"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "8e727640-4c00-4735-bc2b-7341bb24ffcf",
+      "name": "Life Alliance Organ Recovery Agency",
+      "dsa_code": "FLMP",
+      "location": {
+        "state": "FL",
+        "city": null,
+        "region": "FL: Southern"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 148,
+        "recovery_rate": {
+          "nhw": 9.8,
+          "nhb": 4.2,
+          "hispanic": 8.4,
+          "asian": 3.2
+        },
+        "shadow_deaths": 332,
+        "rank": 54,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Sam Salama (no compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 755,
+          "nhb": 523,
+          "hispanic": 610,
+          "asian": 31
+        },
+        "demographic_rank": {
+          "nhw": 44,
+          "nhb": 52,
+          "hispanic": 43,
+          "asian": 27
+        }
+      },
+      "states_served": [
+        "FL"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "65b4702b-396c-4c79-9a80-a2d4f96937a1",
+      "name": "LifeQuest Organ Recovery Services",
+      "dsa_code": "FLUF",
+      "location": {
+        "state": "FL",
+        "city": null,
+        "region": "FL: Northern"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 168,
+        "recovery_rate": {
+          "nhw": 9.6,
+          "nhb": 12.6,
+          "hispanic": 14.9,
+          "asian": null
+        },
+        "shadow_deaths": 142,
+        "rank": 39,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Danielle Balbis (no compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1163,
+          "nhb": 364,
+          "hispanic": 67,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 45,
+          "nhb": 14,
+          "hispanic": 24,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "FL"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "170f1ef7-1c43-449d-bedd-a435f45965b6",
+      "name": "LifeLink of Florida",
+      "dsa_code": "FLWC",
+      "location": {
+        "state": "FL",
+        "city": null,
+        "region": "FL: West"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 245,
+        "recovery_rate": {
+          "nhw": 11.3,
+          "nhb": 10,
+          "hispanic": 15.9,
+          "asian": 3.7
+        },
+        "shadow_deaths": 2,
+        "rank": 41,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 274863
+      },
+      "leadership": {
+        "ceo": "Katherine Payne",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1628,
+          "nhb": 251,
+          "hispanic": 220,
+          "asian": 27
+        },
+        "demographic_rank": {
+          "nhw": 31,
+          "nhb": 32,
+          "hispanic": 22,
+          "asian": 25
+        }
+      },
+      "states_served": [
+        "FL"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "9aa3e58b-b563-406f-acb8-5233e81e6457",
+      "name": "LifeLink of Georgia",
+      "dsa_code": "GALL",
+      "location": {
+        "state": "GA",
+        "city": null,
+        "region": "GA: Most of GA; SC: Catoosa, Dade, and Walker Counties"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 329,
+        "recovery_rate": {
+          "nhw": 11.7,
+          "nhb": 11.3,
+          "hispanic": 16.7,
+          "asian": 10.5
+        },
+        "shadow_deaths": null,
+        "rank": 20,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 804588
+      },
+      "leadership": {
+        "ceo": "Elizabeth Lehr",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1610,
+          "nhb": 1002,
+          "hispanic": 126,
+          "asian": 67
+        },
+        "demographic_rank": {
+          "nhw": 28,
+          "nhb": 24,
+          "hispanic": 17,
+          "asian": 11
+        }
+      },
+      "states_served": [
+        "GA",
+        "SC"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "58c26aa4-9473-4097-92cc-93707068bc0a",
+      "name": "Legacy of Life",
+      "dsa_code": "HIOP",
+      "location": {
+        "state": "HI",
+        "city": null,
+        "region": "HI"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 22,
+        "recovery_rate": {
+          "nhw": 12.4,
+          "nhb": null,
+          "hispanic": 3,
+          "asian": 6.2
+        },
+        "shadow_deaths": null,
+        "rank": null,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 267990
+      },
+      "leadership": {
+        "ceo": "Leonard Licina",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 89,
+          "nhb": null,
+          "hispanic": 33,
+          "asian": 162
+        },
+        "demographic_rank": {
+          "nhw": 19,
+          "nhb": null,
+          "hispanic": 46,
+          "asian": 19
+        }
+      },
+      "states_served": [
+        "HI"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "8a7f3ce0-384f-40ed-97c5-ca0dc4beccbc",
+      "name": "Iowa Donor Network",
+      "dsa_code": "IAOP",
+      "location": {
+        "state": "IA",
+        "city": null,
+        "region": "IA: Most of IA; NE: Dakota County"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 76,
+        "recovery_rate": {
+          "nhw": 9.6,
+          "nhb": 2,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 31,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 398285
+      },
+      "leadership": {
+        "ceo": "Suzanne Conrad",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 781,
+          "nhb": 49,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 46,
+          "nhb": 53,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "IA",
+        "NE"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "c3c5585a-15db-4502-a60c-8f8d61c5cafe",
+      "name": "Gift of Hope Organ & Tissue Donor Network",
+      "dsa_code": "ILIP",
+      "location": {
+        "state": "IL",
+        "city": null,
+        "region": "IL: Most of IL; IN: Northwest"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 422,
+        "recovery_rate": {
+          "nhw": 12.8,
+          "nhb": 13.6,
+          "hispanic": 17.5,
+          "asian": 10.4
+        },
+        "shadow_deaths": null,
+        "rank": 35,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 614192
+      },
+      "leadership": {
+        "ceo": "Harry Wilkins",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1880,
+          "nhb": 800,
+          "hispanic": 342,
+          "asian": 115
+        },
+        "demographic_rank": {
+          "nhw": 15,
+          "nhb": 10,
+          "hispanic": 14,
+          "asian": 10
+        }
+      },
+      "states_served": [
+        "IL",
+        "IN"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "02ffd67b-1404-4855-b256-2d24efc7b925",
+      "name": "Indiana Donor Network",
+      "dsa_code": "INOP",
+      "location": {
+        "state": "IN",
+        "city": null,
+        "region": "IN: Most of IN"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 183,
+        "recovery_rate": {
+          "nhw": 8.9,
+          "nhb": 8.2,
+          "hispanic": 16,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 13,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 784320
+      },
+      "leadership": {
+        "ceo": "Kellie Tremain",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1737,
+          "nhb": 245,
+          "hispanic": 50,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 51,
+          "nhb": 42,
+          "hispanic": 20,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "IN"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "a3449207-94f3-4491-a7e5-7a723293a30c",
+      "name": "Kentucky Organ Donor Affiliates",
+      "dsa_code": "KYDA",
+      "location": {
+        "state": "KY",
+        "city": null,
+        "region": "KY: Most of KY; IN: Southern; WV: Western; OH: Lawrence County"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 126,
+        "recovery_rate": {
+          "nhw": 6.5,
+          "nhb": 12,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 26,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 380877
+      },
+      "leadership": {
+        "ceo": "Julie Bergin",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1660,
+          "nhb": 150,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 54,
+          "nhb": 19,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "KY",
+        "IN",
+        "WV",
+        "OH"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "c58c2516-91fc-4921-b0cb-e9974dfc7798",
+      "name": "Louisiana Organ Procurement Agency",
+      "dsa_code": "LAOP",
+      "location": {
+        "state": "LA",
+        "city": null,
+        "region": "LA"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 223,
+        "recovery_rate": {
+          "nhw": 15,
+          "nhb": 10.9,
+          "hispanic": 11.9,
+          "asian": null
+        },
+        "shadow_deaths": 187,
+        "rank": 38,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 851412
+      },
+      "leadership": {
+        "ceo": "Kelly Ranum",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 949,
+          "nhb": 697,
+          "hispanic": 42,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 7,
+          "nhb": 26,
+          "hispanic": 34,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "LA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "d7c8684a-723b-42e8-a6f1-115b03ccee54",
+      "name": "New England Donor Services",
+      "dsa_code": "MAOB",
+      "location": {
+        "state": "CT",
+        "city": null,
+        "region": "CT; MA; ME; NH; RI; VT: Eastern"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 310,
+        "recovery_rate": {
+          "nhw": 10.4,
+          "nhb": 11.4,
+          "hispanic": 19.6,
+          "asian": 6.1
+        },
+        "shadow_deaths": 204,
+        "rank": 44,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 725418
+      },
+      "leadership": {
+        "ceo": "Alexandra Glazier",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 2381,
+          "nhb": 202,
+          "hispanic": 184,
+          "asian": 66
+        },
+        "demographic_rank": {
+          "nhw": 39,
+          "nhb": 23,
+          "hispanic": 11,
+          "asian": 20
+        }
+      },
+      "states_served": [
+        "CT",
+        "MA",
+        "ME",
+        "NH",
+        "RI",
+        "VT"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "72462bcf-0702-4236-85f5-9fdc6a15ef36",
+      "name": "The Living Legacy Foundation of Maryland",
+      "dsa_code": "MDPC",
+      "location": {
+        "state": "MD",
+        "city": null,
+        "region": "MD: Most of MD"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 152,
+        "recovery_rate": {
+          "nhw": 14.7,
+          "nhb": 11.9,
+          "hispanic": 10.8,
+          "asian": 7.7
+        },
+        "shadow_deaths": 243,
+        "rank": 45,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 608009
+      },
+      "leadership": {
+        "ceo": "Charles Alexander",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 681,
+          "nhb": 386,
+          "hispanic": 37,
+          "asian": 26
+        },
+        "demographic_rank": {
+          "nhw": 8,
+          "nhb": 20,
+          "hispanic": 37,
+          "asian": 16
+        }
+      },
+      "states_served": [
+        "MD"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "fdaf405b-3ea4-4778-9856-488cb3247e74",
+      "name": "Gift of Life Michigan",
+      "dsa_code": "MIOP",
+      "location": {
+        "state": "MI",
+        "city": null,
+        "region": "MI: Most of MI"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 315,
+        "recovery_rate": {
+          "nhw": 11.2,
+          "nhb": 10.1,
+          "hispanic": 11.7,
+          "asian": 9.1
+        },
+        "shadow_deaths": null,
+        "rank": 30,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 773601
+      },
+      "leadership": {
+        "ceo": "Ladora Dils",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 2120,
+          "nhb": 622,
+          "hispanic": 94,
+          "asian": 44
+        },
+        "demographic_rank": {
+          "nhw": 32,
+          "nhb": 31,
+          "hispanic": 35,
+          "asian": 13
+        }
+      },
+      "states_served": [
+        "MI"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "d3debc92-6c53-4bec-b2c0-edd2921075c3",
+      "name": "LifeSource Upper Midwest Organ Procurement Organization",
+      "dsa_code": "MNOP",
+      "location": {
+        "state": "MN",
+        "city": null,
+        "region": "MN: Most of MN; ND: ND; SD: SD; WI: Western"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 193,
+        "recovery_rate": {
+          "nhw": 11.8,
+          "nhb": 12.9,
+          "hispanic": 14.7,
+          "asian": 5.9
+        },
+        "shadow_deaths": 52,
+        "rank": 43,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 613748
+      },
+      "leadership": {
+        "ceo": "Kelly White",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1440,
+          "nhb": 116,
+          "hispanic": 34,
+          "asian": 51
+        },
+        "demographic_rank": {
+          "nhw": 26,
+          "nhb": 12,
+          "hispanic": 25,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "MN",
+        "ND",
+        "SD",
+        "WI"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "d15be500-dc24-4c27-824e-2b3024c9497e",
+      "name": "Mid-America Transplant Services",
+      "dsa_code": "MOMA",
+      "location": {
+        "state": "MO",
+        "city": null,
+        "region": "MO: Eastern; AR: Northeast; IL: Southern"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 249,
+        "recovery_rate": {
+          "nhw": 15.6,
+          "nhb": 18,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 6,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 424499
+      },
+      "leadership": {
+        "ceo": "Kevin Lee",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1292,
+          "nhb": 261,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 5,
+          "nhb": 3,
+          "hispanic": null,
+          "asian": 4
+        }
+      },
+      "states_served": [
+        "MO",
+        "AR",
+        "IL"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "4c4389b2-2ed2-41b5-a5ce-ddd01a20aaf0",
+      "name": "Mississippi Organ Recovery Agency",
+      "dsa_code": "MSOP",
+      "location": {
+        "state": "MS",
+        "city": null,
+        "region": "MS: Most of MS"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 72,
+        "recovery_rate": {
+          "nhw": 5.5,
+          "nhb": 9.7,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": 11,
+        "rank": 42,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 332544
+      },
+      "leadership": {
+        "ceo": "Kevin Stump",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 566,
+          "nhb": 424,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 56,
+          "nhb": 35,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "MS"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "d3bddfcd-838a-4ef2-a5b1-3c9495de934a",
+      "name": "Midwest Transplant Network",
+      "dsa_code": "MWOB",
+      "location": {
+        "state": "KS",
+        "city": null,
+        "region": "KS; MO: Western"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 265,
+        "recovery_rate": {
+          "nhw": 17.1,
+          "nhb": 20.6,
+          "hispanic": 39.2,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 7,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 668093
+      },
+      "leadership": {
+        "ceo": "Jan Finn",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1189,
+          "nhb": 160,
+          "hispanic": 74,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 2,
+          "nhb": 2,
+          "hispanic": 1,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "KS",
+        "MO"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "a42a0763-c164-4352-bf3e-17d027870bf3",
+      "name": "LifeShare Carolinas",
+      "dsa_code": "NCCM",
+      "location": {
+        "state": "NC",
+        "city": null,
+        "region": "NC: Southwestern and Western; SC: York County"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 111,
+        "recovery_rate": {
+          "nhw": 14.3,
+          "nhb": 11.6,
+          "hispanic": 24.2,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 4,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Michael Daniels (no compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 566,
+          "nhb": 189,
+          "hispanic": 33,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 10,
+          "nhb": 22,
+          "hispanic": 6,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "NC",
+        "SC"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "8731e21b-c21f-4645-b697-1b3c79edead8",
+      "name": "HonorBridge",
+      "dsa_code": "NCNC",
+      "location": {
+        "state": "NC",
+        "city": null,
+        "region": "NC: Eastern and Central; VA: Pittsylvania, Danville Counties"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 245,
+        "recovery_rate": {
+          "nhw": 11.2,
+          "nhb": 8.2,
+          "hispanic": 26.2,
+          "asian": 15.6
+        },
+        "shadow_deaths": 91,
+        "rank": 37,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 410981
+      },
+      "leadership": {
+        "ceo": "Danielle Bumarch",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1488,
+          "nhb": 696,
+          "hispanic": 61,
+          "asian": 32
+        },
+        "demographic_rank": {
+          "nhw": 33,
+          "nhb": 41,
+          "hispanic": 2,
+          "asian": 3
+        }
+      },
+      "states_served": [
+        "NC",
+        "VA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "b1cb3a5b-879b-4f8d-b1dd-5678f7480c55",
+      "name": "Live On Nebraska",
+      "dsa_code": "NEOR",
+      "location": {
+        "state": "NE",
+        "city": null,
+        "region": "NE: Most of NE; IA: Pottawattamie County"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 52,
+        "recovery_rate": {
+          "nhw": 11,
+          "nhb": 13.3,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 3,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 561972
+      },
+      "leadership": {
+        "ceo": "Kyle Herber",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 437,
+          "nhb": 30,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 36,
+          "nhb": 11,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "NE",
+        "IA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "903cbcb1-ac52-456d-8f67-314044d64c7f",
+      "name": "New Jersey Sharing Network",
+      "dsa_code": "NJTO",
+      "location": {
+        "state": "NJ",
+        "city": null,
+        "region": "NJ: Northern and Central"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 189,
+        "recovery_rate": {
+          "nhw": 10.7,
+          "nhb": 6.6,
+          "hispanic": 19.9,
+          "asian": 3
+        },
+        "shadow_deaths": null,
+        "rank": 19,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 611174
+      },
+      "leadership": {
+        "ceo": "Carolyn Welsh",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1026,
+          "nhb": 347,
+          "hispanic": 267,
+          "asian": 99
+        },
+        "demographic_rank": {
+          "nhw": 37,
+          "nhb": 46,
+          "hispanic": 10,
+          "asian": 28
+        }
+      },
+      "states_served": [
+        "NJ"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "e4c1c4e5-b762-4f3e-a62f-cc8c205531d4",
+      "name": "New Mexico Donor Services",
+      "dsa_code": "NMOP",
+      "location": {
+        "state": "NM",
+        "city": null,
+        "region": "NM"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 51,
+        "recovery_rate": {
+          "nhw": 12,
+          "nhb": null,
+          "hispanic": 10.1,
+          "asian": null
+        },
+        "shadow_deaths": 106,
+        "rank": 46,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 389042
+      },
+      "leadership": {
+        "ceo": "Sean Van Slyck",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 217,
+          "nhb": null,
+          "hispanic": 247,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 24,
+          "nhb": null,
+          "hispanic": 40,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "NM"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "0df36884-ab9f-494a-8e11-9ab5663b40ed",
+      "name": "Nevada Donor Network",
+      "dsa_code": "NVLV",
+      "location": {
+        "state": "NV",
+        "city": null,
+        "region": "NV: Most of NV"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 153,
+        "recovery_rate": {
+          "nhw": 14.4,
+          "nhb": 15.6,
+          "hispanic": 24.6,
+          "asian": 21.8
+        },
+        "shadow_deaths": null,
+        "rank": 9,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 690421
+      },
+      "leadership": {
+        "ceo": "Joseph Ferreira",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 570,
+          "nhb": 154,
+          "hispanic": 122,
+          "asian": 78
+        },
+        "demographic_rank": {
+          "nhw": 9,
+          "nhb": 4,
+          "hispanic": 3,
+          "asian": 2
+        }
+      },
+      "states_served": [
+        "NV"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/2021-05-27.RK%20KP%20to%20Ferreira-NDN%20re%20Expenses.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "f3dd6e41-4526-4ed7-883e-71f787272e10",
+      "name": "Center for Donation and Transplant",
+      "dsa_code": "NYAP",
+      "location": {
+        "state": "NY",
+        "city": null,
+        "region": "NY: Eastern; MA: Berkshire County; VT: Western"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 68,
+        "recovery_rate": {
+          "nhw": 11.8,
+          "nhb": 13,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 12,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "James Barba",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 543,
+          "nhb": 29,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 27,
+          "nhb": 8,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "NY",
+        "MA",
+        "VT"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "71396b60-00cb-466e-9626-68ed966c4fc7",
+      "name": "Finger Lakes Donor Recovery Program",
+      "dsa_code": "NYFL",
+      "location": {
+        "state": "NY",
+        "city": null,
+        "region": "NY: Central"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 59,
+        "recovery_rate": {
+          "nhw": 9.3,
+          "nhb": 8.8,
+          "hispanic": 7.7,
+          "asian": null
+        },
+        "shadow_deaths": 27,
+        "rank": 52,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Robert Gruenenfelder (No compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 538,
+          "nhb": 80,
+          "hispanic": 26,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 49,
+          "nhb": 37,
+          "hispanic": 44,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "NY"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "82283b75-7f3b-43a1-aa3b-4dabf47b7303",
+      "name": "LiveOnNY",
+      "dsa_code": "NYRT",
+      "location": {
+        "state": "NY",
+        "city": null,
+        "region": "NY: Southern (NYC); PA: Pike County"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 314,
+        "recovery_rate": {
+          "nhw": 9.9,
+          "nhb": 7.2,
+          "hispanic": 12.1,
+          "asian": 7.1
+        },
+        "shadow_deaths": null,
+        "rank": 34,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 1169151
+      },
+      "leadership": {
+        "ceo": "Leonard Achan",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1423,
+          "nhb": 911,
+          "hispanic": 703,
+          "asian": 312
+        },
+        "demographic_rank": {
+          "nhw": 43,
+          "nhb": 45,
+          "hispanic": 33,
+          "asian": 18
+        }
+      },
+      "states_served": [
+        "NY",
+        "PA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "2654160d-ad3d-4bb0-8f7a-f025f3737490",
+      "name": "ConnectLife",
+      "dsa_code": "NYWN",
+      "location": {
+        "state": "NY",
+        "city": null,
+        "region": "NY: Western"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 30,
+        "recovery_rate": {
+          "nhw": 7.3,
+          "nhb": 8.8,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": 29,
+        "rank": 51,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 304632
+      },
+      "leadership": {
+        "ceo": "Kevin Gramlich",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 344,
+          "nhb": 57,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 53,
+          "nhb": null,
+          "hispanic": 45,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "NY"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "66a4648c-1033-4e19-86d3-b73c1875157a",
+      "name": "LifeBanc",
+      "dsa_code": "OHLB",
+      "location": {
+        "state": "OH",
+        "city": null,
+        "region": "OH: Northeast"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 136,
+        "recovery_rate": {
+          "nhw": 9.3,
+          "nhb": 10.8,
+          "hispanic": 10.7,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 14,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 644155
+      },
+      "leadership": {
+        "ceo": "Gordon Bowen",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1093,
+          "nhb": 286,
+          "hispanic": 28,
+          "asian": 1
+        },
+        "demographic_rank": {
+          "nhw": 50,
+          "nhb": 27,
+          "hispanic": 38,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "OH"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "8dda8574-5522-4158-8ed6-6ad1c105f0b0",
+      "name": "Life Connection of Ohio",
+      "dsa_code": "OHLC",
+      "location": {
+        "state": "OH",
+        "city": null,
+        "region": "OH: Northwest"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 90,
+        "recovery_rate": {
+          "nhw": 12.3,
+          "nhb": 12.4,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 10,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 620705
+      },
+      "leadership": {
+        "ceo": "Matthew Wadsworth",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 608,
+          "nhb": 121,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 20,
+          "nhb": 16,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "OH"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "7cbb6762-e129-40b9-b181-d385edbec761",
+      "name": "LifeLine of Ohio",
+      "dsa_code": "OHLP",
+      "location": {
+        "state": "OH",
+        "city": null,
+        "region": "OH: Central; WV: Wood and Hancock Counties"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 128,
+        "recovery_rate": {
+          "nhw": 10.1,
+          "nhb": 12.5,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 27,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 396996
+      },
+      "leadership": {
+        "ceo": "Andrew Mullins",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1054,
+          "nhb": 176,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 42,
+          "nhb": 15,
+          "hispanic": 9,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "OH",
+        "WV"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "59bbb33b-531b-401c-bfca-8989e928147b",
+      "name": "LifeCenter Organ Donor Network",
+      "dsa_code": "OHOV",
+      "location": {
+        "state": "OH",
+        "city": null,
+        "region": "OH: Southwest; KY: Northern; IN: Southeast"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 72,
+        "recovery_rate": {
+          "nhw": 11.5,
+          "nhb": 8.5,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 1,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 366969
+      },
+      "leadership": {
+        "ceo": "Barry Massa",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 557,
+          "nhb": 94,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 29,
+          "nhb": 38,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "OH",
+        "KY",
+        "IN"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "40aa1072-2eaf-49dd-9f10-a38e7a1f2ece",
+      "name": "Lifeshare of Oklahoma",
+      "dsa_code": "OKOP",
+      "location": {
+        "state": "OK",
+        "city": null,
+        "region": "OK"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 158,
+        "recovery_rate": {
+          "nhw": 12.1,
+          "nhb": 9.1,
+          "hispanic": 16.7,
+          "asian": null
+        },
+        "shadow_deaths": 8,
+        "rank": 36,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 668586
+      },
+      "leadership": {
+        "ceo": "Jeffrey Orlowski",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1097,
+          "nhb": 154,
+          "hispanic": 66,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 23,
+          "nhb": null,
+          "hispanic": 16,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "OK"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "6f077d7d-9c29-40af-8471-9a0568082222",
+      "name": "Pacific NW Transplant Bank",
+      "dsa_code": "ORUO",
+      "location": {
+        "state": "OR",
+        "city": null,
+        "region": "OR; ID: Western; WA: Southwest"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 129,
+        "recovery_rate": {
+          "nhw": 9.4,
+          "nhb": 6.1,
+          "hispanic": 16.3,
+          "asian": 9.1
+        },
+        "shadow_deaths": null,
+        "rank": 18,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Craig Van De Walker (No compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1179,
+          "nhb": 33,
+          "hispanic": 80,
+          "asian": 33
+        },
+        "demographic_rank": {
+          "nhw": 48,
+          "nhb": 50,
+          "hispanic": 19,
+          "asian": 12
+        }
+      },
+      "states_served": [
+        "OR",
+        "ID",
+        "WA"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "965bb9b7-ccb8-4cd0-9323-715b833ea496",
+      "name": "Gift of Life",
+      "dsa_code": "PADV",
+      "location": {
+        "state": "PA",
+        "city": null,
+        "region": "PA: Eastern; DE: DE; NJ: Southern"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 584,
+        "recovery_rate": {
+          "nhw": 18.3,
+          "nhb": 13.6,
+          "hispanic": 24.2,
+          "asian": 5.1
+        },
+        "shadow_deaths": null,
+        "rank": 15,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 946726
+      },
+      "leadership": {
+        "ceo": "Richard Hasz",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 2395,
+          "nhb": 632,
+          "hispanic": 236,
+          "asian": 78
+        },
+        "demographic_rank": {
+          "nhw": 1,
+          "nhb": 9,
+          "hispanic": 5,
+          "asian": 22
+        }
+      },
+      "states_served": [
+        "PA",
+        "DE",
+        "NJ"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "9c2c8f59-3f99-410d-b3dc-abd0d78ed67f",
+      "name": "Center for Organ Recovery and Education",
+      "dsa_code": "PATF",
+      "location": {
+        "state": "PA",
+        "city": null,
+        "region": "PA: Western; NY: Chemung County; WV: Most of WV"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 231,
+        "recovery_rate": {
+          "nhw": 11.4,
+          "nhb": 12.2,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 28,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 723638
+      },
+      "leadership": {
+        "ceo": "Susan Stuart",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1884,
+          "nhb": 131,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 30,
+          "nhb": 17,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "PA",
+        "NY",
+        "WV"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "149bda47-c04c-464a-bd88-e725419edc0f",
+      "name": "LifeLink of Puerto Rico",
+      "dsa_code": "PRLL",
+      "location": {
+        "state": "PR",
+        "city": null,
+        "region": "PR"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": null,
+        "recovery_rate": {
+          "nhw": null,
+          "nhb": null,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 55,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 206239
+      },
+      "leadership": {
+        "ceo": "Guillermina Sanchez",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": null,
+          "nhb": null,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": null,
+          "nhb": null,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "PR"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "30b84f54-0bc4-4a72-9d90-7b9b4ad45178",
+      "name": "We Are Sharing Hope SC",
+      "dsa_code": "SCOP",
+      "location": {
+        "state": "SC",
+        "city": null,
+        "region": "SC: Most of SC"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 176,
+        "recovery_rate": {
+          "nhw": 12.3,
+          "nhb": 8.2,
+          "hispanic": 10.6,
+          "asian": null
+        },
+        "shadow_deaths": 410,
+        "rank": 53,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 316157
+      },
+      "leadership": {
+        "ceo": "David DeStefano",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1048,
+          "nhb": 513,
+          "hispanic": 47,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 21,
+          "nhb": 40,
+          "hispanic": 39,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "SC"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "7a1d94a9-03e6-46c0-803c-f3bb0ce26de5",
+      "name": "Tennessee Donor Services",
+      "dsa_code": "TNDS",
+      "location": {
+        "state": "TN",
+        "city": null,
+        "region": "TN: Central and Eastern; GA: Northern; KY: Christian County; VA: Southwest"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 315,
+        "recovery_rate": {
+          "nhw": 11.2,
+          "nhb": 11.7,
+          "hispanic": 18.9,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 25,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 408838
+      },
+      "leadership": {
+        "ceo": "Jill Grandas",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 2412,
+          "nhb": 298,
+          "hispanic": 53,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 34,
+          "nhb": 21,
+          "hispanic": 12,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "TN",
+        "GA",
+        "KY",
+        "VA"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "adae1923-05fb-4cfc-950f-8e738c5331a0",
+      "name": "Mid-South Transplant Foundation",
+      "dsa_code": "TNMS",
+      "location": {
+        "state": "TN",
+        "city": null,
+        "region": "TN: Western; AR: Eastern; MS: Northern"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 56,
+        "recovery_rate": {
+          "nhw": 5,
+          "nhb": 8,
+          "hispanic": null,
+          "asian": null
+        },
+        "shadow_deaths": 101,
+        "rank": 47,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 370189
+      },
+      "leadership": {
+        "ceo": "Kim Van Frank",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 423,
+          "nhb": 437,
+          "hispanic": null,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 57,
+          "nhb": 43,
+          "hispanic": null,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "TN",
+        "AR",
+        "MS"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "029a569e-b03b-4a24-95ca-45d93998412a",
+      "name": "LifeGift",
+      "dsa_code": "TXGC",
+      "location": {
+        "state": "TX",
+        "city": null,
+        "region": "TX: Northern and Southeast"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 406,
+        "recovery_rate": {
+          "nhw": 11.9,
+          "nhb": 11,
+          "hispanic": 14.6,
+          "asian": 7.3
+        },
+        "shadow_deaths": 267,
+        "rank": 40,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 671057
+      },
+      "leadership": {
+        "ceo": "Kevin Myer",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1729,
+          "nhb": 692,
+          "hispanic": 788,
+          "asian": 123
+        },
+        "demographic_rank": {
+          "nhw": 25,
+          "nhb": 25,
+          "hispanic": 27,
+          "asian": 17
+        }
+      },
+      "states_served": [
+        "TX"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "a4e6cf74-c837-4a6a-a628-aad10c050379",
+      "name": "Texas Organ Sharing Alliance",
+      "dsa_code": "TXSA",
+      "location": {
+        "state": "TX",
+        "city": null,
+        "region": "TX: Southern"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 188,
+        "recovery_rate": {
+          "nhw": 10.3,
+          "nhb": 14.4,
+          "hispanic": 8.6,
+          "asian": 3.9
+        },
+        "shadow_deaths": 291,
+        "rank": 50,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 451424
+      },
+      "leadership": {
+        "ceo": "Joseph Nespral",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 795,
+          "nhb": 132,
+          "hispanic": 999,
+          "asian": 26
+        },
+        "demographic_rank": {
+          "nhw": 40,
+          "nhb": 7,
+          "hispanic": 42,
+          "asian": 24
+        }
+      },
+      "states_served": [
+        "TX"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "e73b198d-c666-4b20-b51d-f791b87ef668",
+      "name": "Southwest Transplant Alliance",
+      "dsa_code": "TXSB",
+      "location": {
+        "state": "TX",
+        "city": null,
+        "region": "TX; AR: Miller County"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 400,
+        "recovery_rate": {
+          "nhw": 13,
+          "nhb": 10.4,
+          "hispanic": 14.6,
+          "asian": 14.9
+        },
+        "shadow_deaths": 33,
+        "rank": 24,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 709413
+      },
+      "leadership": {
+        "ceo": "Bradley L Adams",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1658,
+          "nhb": 556,
+          "hispanic": 789,
+          "asian": 74
+        },
+        "demographic_rank": {
+          "nhw": 14,
+          "nhb": 30,
+          "hispanic": 28,
+          "asian": 5
+        }
+      },
+      "states_served": [
+        "TX",
+        "AR"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "d7317bcc-5548-433e-899d-46961a978d60",
+      "name": "DonorConnect",
+      "dsa_code": "UTOP",
+      "location": {
+        "state": "UT",
+        "city": null,
+        "region": "UT; ID: Southern; NV: Elko; WY: Western"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 105,
+        "recovery_rate": {
+          "nhw": 16.1,
+          "nhb": null,
+          "hispanic": 12.2,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 5,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 398394
+      },
+      "leadership": {
+        "ceo": "Tracy Schmidt",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 589,
+          "nhb": null,
+          "hispanic": 82,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 3,
+          "nhb": 1,
+          "hispanic": 32,
+          "asian": 1
+        }
+      },
+      "states_served": [
+        "UT",
+        "ID",
+        "NV",
+        "WY"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "f7809cc0-a4ff-4be8-9fd5-f9380d241f7e",
+      "name": "LifeNet",
+      "dsa_code": "VATB",
+      "location": {
+        "state": "VA",
+        "city": null,
+        "region": "VA: Most of VA; NC: Currituck County; WV: Northwest"
+      },
+      "cms_status": {
+        "tier": 3,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 174,
+        "recovery_rate": {
+          "nhw": 9.5,
+          "nhb": 8.9,
+          "hispanic": 14.7,
+          "asian": 3.5
+        },
+        "shadow_deaths": 186,
+        "rank": 49,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 3518280
+      },
+      "leadership": {
+        "ceo": "Rony Thomas",
+        "board_independence_disclosed": true
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1243,
+          "nhb": 562,
+          "hispanic": 34,
+          "asian": 29
+        },
+        "demographic_rank": {
+          "nhw": 47,
+          "nhb": 36,
+          "hispanic": 26,
+          "asian": 26
+        }
+      },
+      "states_served": [
+        "VA",
+        "NC",
+        "WV"
+      ],
+      "investigations": {
+        "house": true,
+        "house_url": "https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/OPO%20Letters.pdf",
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "20ccd873-83c5-41ea-8ed2-b122bbce9df5",
+      "name": "LifeCenter Northwest Organ Donation Network",
+      "dsa_code": "WALC",
+      "location": {
+        "state": "WA",
+        "city": null,
+        "region": "WA: Most of WA; AK; ID: Northern; MT: MT"
+      },
+      "cms_status": {
+        "tier": 2,
+        "cycle_year": 2023,
+        "at_risk": true
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 268,
+        "recovery_rate": {
+          "nhw": 12.5,
+          "nhb": 10.5,
+          "hispanic": 17.3,
+          "asian": 11
+        },
+        "shadow_deaths": 124,
+        "rank": 29,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 438083
+      },
+      "leadership": {
+        "ceo": "Santokh Gill",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 1750,
+          "nhb": 105,
+          "hispanic": 139,
+          "asian": 127
+        },
+        "demographic_rank": {
+          "nhw": 17,
+          "nhb": 29,
+          "hispanic": 15,
+          "asian": 8
+        }
+      },
+      "states_served": [
+        "WA",
+        "AK",
+        "ID",
+        "MT"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "f0df47b4-69aa-46df-8471-58e0f000117c",
+      "name": "Versiti Blood Center of Wisconsin",
+      "dsa_code": "WIDN",
+      "location": {
+        "state": "WI",
+        "city": null,
+        "region": "WI: Southeast"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 112,
+        "recovery_rate": {
+          "nhw": 14.1,
+          "nhb": 14.6,
+          "hispanic": 24.6,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 29,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": 1480476
+      },
+      "leadership": {
+        "ceo": "Chris Miskel",
+        "board_independence_disclosed": false
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 477,
+          "nhb": 151,
+          "hispanic": 57,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 12,
+          "nhb": 6,
+          "hispanic": 4,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "WI"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": true,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    },
+    {
+      "opo_id": "efffc8f1-f084-4e02-8086-fdae136848de",
+      "name": "UW Organ and Tissue Donation",
+      "dsa_code": "WIUW",
+      "location": {
+        "state": "WI",
+        "city": null,
+        "region": "WI; IL: Winnebago County; MI: Northwest; MN: Houston County"
+      },
+      "cms_status": {
+        "tier": 1,
+        "cycle_year": 2023,
+        "at_risk": false
+      },
+      "metrics": {
+        "donation_rate": null,
+        "transplantation_rate": null,
+        "conversion_rate": null,
+        "donors_recovered": 128,
+        "recovery_rate": {
+          "nhw": 12.7,
+          "nhb": 6.5,
+          "hispanic": 16,
+          "asian": null
+        },
+        "shadow_deaths": null,
+        "rank": 8,
+        "discard_rates": {
+          "kidney": null,
+          "liver": null,
+          "heart": null,
+          "lung": null
+        }
+      },
+      "financials": {
+        "revenue": null,
+        "expenses": null,
+        "oac_per_organ": null,
+        "ceo_compensation": null
+      },
+      "leadership": {
+        "ceo": "Michael Anderson (no compensation data available)",
+        "board_independence_disclosed": null
+      },
+      "demographics": {
+        "eligible_deaths": {
+          "nhw": 952,
+          "nhb": 46,
+          "hispanic": 25,
+          "asian": null
+        },
+        "demographic_rank": {
+          "nhw": 16,
+          "nhb": 48,
+          "hispanic": 21,
+          "asian": null
+        }
+      },
+      "states_served": [
+        "WI",
+        "IL",
+        "MI",
+        "MN"
+      ],
+      "investigations": {
+        "house": false,
+        "house_url": null,
+        "senate": false,
+        "senate_url": null
+      },
+      "relationships": {
+        "transplant_centers": []
+      },
+      "controversies": [],
+      "news_feed": []
+    }
+  ]
+}
